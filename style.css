@@ -1,0 +1,51 @@
+body {
+    padding-top: 800px;
+    text-align: center;
+}
+
+#welcome {
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: aqua;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 0;
+    background: linear-gradient(#7242f5 0%, #851bcc 100%);
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+
+#Ankushff {
+    width:275px;
+    margin-bottom: 50px;
+    border-radius: 125px;
+    height: 250px;
+}
+h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: monospace;
+    font-weight: 300px;
+}
+h1 {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: monospace;
+    font-weight: 300px;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 75px;
+    margin: 8px auto;
+}
+p  {
+    line-height: 1.3;
+    font-size: 18px;
+    max-width: 450px;
+    margin: 25px auto;
+}
